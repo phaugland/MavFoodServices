@@ -138,3 +138,4 @@ files
 
 #ignore vscode
 .vscode
+mfscrm/db.sqlite3
